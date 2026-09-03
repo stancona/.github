@@ -22,7 +22,7 @@
 
 | | |
 |:--|:--|
-| 🏰 **Vitrine** | [stancona.org](https://stancona.org) |
+| 🏰 **Vitrin** | [stancona.org](https://stancona.org) |
 | 🛒 **Store** | [store.stancona.org](https://store.stancona.org) |
 | ▶️ **YouTube** | [@stancona-tv](https://youtube.com/@stancona-tv) |
 | 📸 **Instagram** | [@stancona](https://instagram.com/stancona) |
