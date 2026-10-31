@@ -18,6 +18,31 @@
 
 ---
 
+## About
+
+Stancona is an independent studio founded by **Muhammed Emin Boydak** and built in
+Istanbul, Türkiye. The name comes from the medieval (Latin) name of Iconium — a city of
+caravans and epics — and the idea is simple: bring that spirit to the modern gaming table.
+We are building a TTRPG marketplace where physical craft (miniatures, handcrafted dice,
+artisan accessories) and digital worlds (adventures, STL kits, campaign tools) live under
+one roof, community first.
+
+**How we work:** docs-driven (ADRs as the single source of truth), agent-assisted SDLC
+(human decisions, machine execution), and design-system-first engineering. We intend to
+open-source the reusable parts of this machinery — watch this space.
+
+### FAQ
+
+| Question | Answer |
+|:--|:--|
+| Who runs Stancona? | An independent studio — founder Muhammed Emin Boydak, Istanbul, Türkiye. |
+| What are you building? | A TTRPG marketplace: handcrafted physical goods + original digital content + community tools. |
+| Where can I follow along? | [Blog](https://stancona.org/blog) · [Roadmap](https://stancona.org/roadmap) · [Status](https://status.stancona.org) |
+| How can I get in touch? | hello@stancona.org — for legal/business identity see [stancona.org/about](https://stancona.org/about). |
+| Do you hire / collaborate? | We are small and deliberate; introduce yourself by e-mail. |
+
+---
+
 ## What we do
 
 | Pillar | What it means |
